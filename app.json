@@ -1,0 +1,17 @@
+{
+  "name": "WordPress on Heroku",
+  "description": "在 Heroku 部署 Wordpress 5.9.3",
+  "repository": "https://github.com/mcxiaolan/WordPress-For-Heroku/tree/master",
+  "website": "https://github.com/mcxiaolan/WordPress-For-Heroku",
+  "keywords": ["wordpress", "blog" ],
+  "addons": [
+    {
+      "plan": "heroku-postgresql:hobby-dev",
+      "options": {
+        "version": "12"
+      }
+    }
+  ],
+  "logo":"https://cdn.jsdelivr.net/gh/mcxiaolan/jsdelivr/WordPress-Logo.png",
+  "stack": "heroku-18"
+}
