@@ -22,13 +22,13 @@ https://github.com/chenchk/wordpress-for-heroku
 
 # Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MINGERTAI/WordPress-For-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MINGERTAI/wordpress)
 
 # 配置
 
 ## WordPress 版本
 
-+ WordPress 5.9
++ WordPress 5.9.3
 
 ## 插件
 
