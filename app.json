@@ -1,8 +1,8 @@
 {
   "name": "WordPress on Heroku",
   "description": "在 Heroku 部署 Wordpress 5.9.3",
-  "repository": "https://github.com/mcxiaolan/WordPress-For-Heroku/tree/master",
-  "website": "https://github.com/mcxiaolan/WordPress-For-Heroku",
+  "repository": "https://github.com/MINGERTAI/wordpress/tree/main",
+  "website": "https://github.com/MINGERTAI/wordpress",
   "keywords": ["wordpress", "blog" ],
   "addons": [
     {
