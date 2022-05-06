@@ -47,9 +47,9 @@ https://github.com/chenchk/wordpress-for-heroku
 
 ## 新建分支
 
-下载源码https://cn.wordpress.org/latest-zh_CN.zip 解压下载的源码包 wordpress-5.9.3-zh_CN.zip, 重命名解压目录为wordpress-for-heroku
+下载源码https://cn.wordpress.org/latest-zh_CN.zip 解压下载的源码包 wordpress-5.9.3-zh_CN.zip, 重命名解压目录为wordpress for heroku
 
-打开gitbash进入cd该目录,初始化并提交仓库
+在gitbash新建项目 进入cd该目录,初始化并提交仓库
 
 heroku只有pgsql免费，wordpress是默认使用mysql，所以要装一个插件PG4WP！
 
@@ -67,7 +67,7 @@ heroku只有pgsql免费，wordpress是默认使用mysql，所以要装一个插�
 
 + 追加SSL_LOGIN
 
-# wp-config.php修改内容
+# wp-config.php修改内容如下
 
 # 删除如下
 
